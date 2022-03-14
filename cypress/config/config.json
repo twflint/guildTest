@@ -1,0 +1,9 @@
+{
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "projectId": "Guild practical",
+  "keystrokeDelay": 1,
+  "modifyObstructeCode": false,
+  "pageLoadTimeout": 150000,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920
+}

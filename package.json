@@ -1,0 +1,13 @@
+{
+    "name": "Guild-Cypress",
+    "version": "1.0.0",
+    "author": "Travis Flint",
+    "private": true,
+    "scripts": {
+        "cy:open": "cypress open --config-file ./cypress/config/config.json",
+        "cy:test": "cypress run --config-file ./cypress/config/config.json"
+    },
+    "devDependencies": {
+        "cypress": "~9.5.1"
+    }
+}
